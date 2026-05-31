@@ -1,0 +1,16 @@
+{
+  "name": "stellarstays",
+  "version": "1.0.0",
+  "description": "Static landing page for Stellar Stays hotel booking",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --ignore=node_modules --quiet",
+    "dev": "live-server --port=3000 --ignore=node_modules --quiet",
+    "check": "echo \"Project files are ready\""
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
